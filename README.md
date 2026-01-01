@@ -1,3 +1,8 @@
+# Changes in this Fork
+
+This fork of Seed-VC updates the [`requirements.txt`](requirements.txt) to use a newer version of PyTorch that is compatible with Blackwell GPUs (RTX 50xx series).
+This fork also adds a [`dockerfile`](dockerfile) for easy cross-platform builds.
+
 # Seed-VC  
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-blue)](https://huggingface.co/spaces/Plachta/Seed-VC)  [![arXiv](https://img.shields.io/badge/arXiv-2411.09943-<COLOR>.svg)](https://arxiv.org/abs/2411.09943)
 
